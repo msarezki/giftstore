@@ -4,13 +4,13 @@ giftstore
 Multi-tenancy sur Windows Azure
 Demo : https://giftstore.azurewebsites.net/
 
-o	Magasin « Kangourou store »
-User1 : admin@kangourou.onmicorrosft.com
-Password : PASSword?
-Role : Administrateur
+o Magasin « Kangourou store » <br />
+User1 : admin@kangourou.onmicorrosft.com <br />
+Password : PASSword? <br />
+Role : Administrateur <br />
 
 
-o	Magasin « Transforms store »
+o Magasin « Transforms store »
 User1 : admin@transformers.onmicorrosft.com
               Password : PASSword?
               Role : Administrateur
