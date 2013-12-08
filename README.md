@@ -1,8 +1,8 @@
 giftstore
 =========
 
-Multi-tenancy sur Windows Azure
-Demo : https://giftstore.azurewebsites.net/
+Multi-tenancy sur Windows Azure<br />
+Demo : https://giftstore.azurewebsites.net/<br />
 
 o Magasin « Kangourou store » <br />
 User1 : admin@kangourou.onmicorrosft.com <br />
