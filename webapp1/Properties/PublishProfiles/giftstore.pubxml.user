@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7FkX0tQPl0W6cWq4QvlgZgAAAAACAAAAAAADZgAAwAAAABAAAAC/JyZWqxXvKa39a1swsSF1AAAAAASAAACgAAAAEAAAAOZrl9G/mBts4mXSWmhqEnmAAAAAit/HkYoSBCwSQykIIPpGWzT/kDKdT+cy912RxpVYNq2b+IcDD5DvZFsc1TsoKweyZZnjcoR4VpIlx2YnhKYdNMTts/i5VQD7Ynd6iEDavoGmg8kDZvl6IF8I+y8AhWp3YaK8puDZ+W49Se9wJobbF5dBidzekbg6HdIAaWOoidgUAAAABz2vA7a2YU39RKzPaeq6nNW0/sg=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=tcp:in5hkjal8k.database.windows.net,1433;Initial Catalog=giftstore-data-db;User ID=ogasa6@in5hkjal8k;Password=PASSword?" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:in5hkjal8k.database.windows.net,1433;Initial Catalog=giftstore-user-db;User ID=ogasa6@in5hkjal8k;Password=PASSword?" />
+  </ItemGroup>
+</Project>

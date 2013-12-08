@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7FkX0tQPl0W6cWq4QvlgZgAAAAACAAAAAAADZgAAwAAAABAAAAB9bXUd9VaeCyEvFAAlAnIXAAAAAASAAACgAAAAEAAAAH3anZxQ1oweF5tIenMSWSGAAAAAPB37K/bnIB9zaUfBzHt1t5JcRNWYj82IsySnwdXWr/gim3X3+XBWK5A5Y7cwPp9pfzQzBgTtTt7LtuRxdUZ8wPIj8AjAl8gFwO1Qbsn8a2U/BUzflf2rLLcvJCHvP3YJErei0A9zLc80RowUuKpSxuoTNDMSCIOHYwQ01b9wSMkUAAAAPkchNUxzyuCF/XVBhja3VR9et4w=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=tcp:r2crk02iv6.database.windows.net,1433;Initial Catalog=webapp-programmez-db-multi-tenant;User ID=ogasa6@r2crk02iv6;Password=PASSword?" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:r2crk02iv6.database.windows.net,1433;Initial Catalog=webappp-programmez-db;User Id=ogasa6@r2crk02iv6;Password=PASSword?" />
+  </ItemGroup>
+</Project>

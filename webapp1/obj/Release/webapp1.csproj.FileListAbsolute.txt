@@ -1,0 +1,189 @@
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\webapp1.dll.config
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\webapp1.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\webapp1.pdb
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Antlr3.Runtime.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\EntityFramework.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\EntityFramework.SqlServer.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Microsoft.AspNet.Identity.Core.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Microsoft.Web.Infrastructure.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Newtonsoft.Json.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.Helpers.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.Mvc.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.Optimization.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.Razor.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.WebPages.Deployment.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.WebPages.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.WebPages.Razor.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\WebGrease.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.Helpers.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.Mvc.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.Optimization.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.Razor.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.WebPages.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.WebPages.Deployment.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\System.Web.WebPages.Razor.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Newtonsoft.Json.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Antlr3.Runtime.pdb
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\EntityFramework.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\EntityFramework.SqlServer.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Microsoft.AspNet.Identity.Core.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\obj\Release\webapp1.csprojResolveAssemblyReference.cache
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\obj\Release\webapp1.dll
+d:\users\msarezki\documents\visual studio 2013\Projects\webapp1\webapp1\obj\Release\webapp1.pdb
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\webapp1.dll.config
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\webapp1.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\webapp1.pdb
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Antlr3.Runtime.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\EntityFramework.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\EntityFramework.SqlServer.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.Data.Edm.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.Data.OData.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Newtonsoft.Json.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Spatial.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.Helpers.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.Mvc.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.Optimization.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.Razor.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.WebPages.Deployment.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.WebPages.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.WebPages.Razor.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\WebGrease.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.WindowsAzure.Diagnostics.StorageUtility.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.Data.Edm.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.Data.OData.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Spatial.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.Helpers.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.Mvc.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.Optimization.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.Razor.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.WebPages.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.WebPages.Deployment.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\System.Web.WebPages.Razor.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Newtonsoft.Json.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Antlr3.Runtime.pdb
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\EntityFramework.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\EntityFramework.SqlServer.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\de\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\es\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\it\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\de\System.Spatial.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\es\System.Spatial.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\fr\System.Spatial.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\it\System.Spatial.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\ja\System.Spatial.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\ko\System.Spatial.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\ru\System.Spatial.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\zh-Hans\System.Spatial.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\bin\zh-Hant\System.Spatial.resources.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\obj\Release\webapp1.csprojResolveAssemblyReference.cache
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\obj\Release\webapp1.dll
+D:\Users\msarezki\Source\Repos\webapp-programmez\webapp1\obj\Release\webapp1.pdb
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\webapp1.dll.config
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\webapp1.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\webapp1.pdb
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Antlr3.Runtime.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\EntityFramework.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\EntityFramework.SqlServer.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.Data.Edm.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.Data.OData.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Newtonsoft.Json.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Spatial.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.Helpers.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.Mvc.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.Optimization.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.Razor.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.WebPages.Deployment.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.WebPages.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.WebPages.Razor.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\WebGrease.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.WindowsAzure.Diagnostics.StorageUtility.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.Data.Edm.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.Data.OData.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Spatial.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.Helpers.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.Mvc.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.Optimization.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.Razor.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.WebPages.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.WebPages.Deployment.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\System.Web.WebPages.Razor.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Newtonsoft.Json.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Antlr3.Runtime.pdb
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\EntityFramework.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\EntityFramework.SqlServer.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\de\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\es\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\it\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\de\System.Spatial.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\es\System.Spatial.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\fr\System.Spatial.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\it\System.Spatial.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\ja\System.Spatial.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\ko\System.Spatial.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\ru\System.Spatial.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\zh-Hans\System.Spatial.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\bin\zh-Hant\System.Spatial.resources.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\obj\Release\webapp1.csprojResolveAssemblyReference.cache
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\obj\Release\webapp1.dll
+D:\Users\msarezki\Documents\Visual Studio 2013\Projects\Giftstore\giftstore\webapp1\obj\Release\webapp1.pdb

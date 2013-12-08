@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="webapp-programmez" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Users\\msarezki\\Source\\Repos\\webapp-programmez\\webapp1\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Users\\msarezki\\Source\\Repos\\webapp-programmez\\webapp1\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DataContext-Web.config Connection String" description="" value="Data Source=tcp:r2crk02iv6.database.windows.net,1433;Initial Catalog=webapp-programmez-db-multi-tenant;User ID=ogasa6@r2crk02iv6;Password=PASSword?" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\msarezki\\Source\\Repos\\webapp-programmez\\webapp1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DataContext']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:r2crk02iv6.database.windows.net,1433;Initial Catalog=webappp-programmez-db;User Id=ogasa6@r2crk02iv6;Password=PASSword?" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\msarezki\\Source\\Repos\\webapp-programmez\\webapp1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="AD_APPIDUri" description="" value="https://organisationx.onmicrosoft.com/WebApp-webapp-programmez.azurewebsites.net" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\msarezki\\Source\\Repos\\webapp-programmez\\webapp1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/system.identityModel/identityConfiguration/audienceUris/add[@value='APPIDUri']/@value" />
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\msarezki\\Source\\Repos\\webapp-programmez\\webapp1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/system.identityModel.services/federationConfiguration/wsFederation[@issuer='https://login.windows.net/common/wsfed']/@realm" />
+  </parameter>
+  <parameter name="AD_ClientID" description="" value="e0bb8d3c-145b-4c17-b56b-6543ffc93e94" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\msarezki\\Source\\Repos\\webapp-programmez\\webapp1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:ClientID']/@value" />
+  </parameter>
+  <parameter name="AD_ClientPassword" description="" value="MOUbSmspugYqE605MCKSfjfmUttboVFRYCwX5eQt20E=" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\msarezki\\Source\\Repos\\webapp-programmez\\webapp1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:Password']/@value" />
+  </parameter>
+  <parameter name="AD_RealmAppSetting" description="" value="https://organisationx.onmicrosoft.com/WebApp-webapp-programmez.azurewebsites.net" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\msarezki\\Source\\Repos\\webapp-programmez\\webapp1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:Realm']/@value" />
+  </parameter>
+  <parameter name="AD_AudienceUriAppSetting" description="" value="https://organisationx.onmicrosoft.com/WebApp-webapp-programmez.azurewebsites.net" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\msarezki\\Source\\Repos\\webapp-programmez\\webapp1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:AudienceUri']/@value" />
+  </parameter>
+</parameters>
